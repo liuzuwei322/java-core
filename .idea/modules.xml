@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learn-thread/learn-thread.iml" filepath="$PROJECT_DIR$/learn-thread/learn-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/wge-learn-core.iml" filepath="$PROJECT_DIR$/wge-learn-core.iml" />
     </modules>
   </component>

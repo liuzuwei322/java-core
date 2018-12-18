@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="learn-thread" />
+        <module name="springboot-mybatis-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="learn-thread" target="1.5" />
+      <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="wge-learn-core" target="1.5" />
     </bytecodeTargetLevel>
   </component>
